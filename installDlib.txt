@@ -1,0 +1,4 @@
+Use this tutorial to install Dlib for python on windows
+https://pysource.com/2019/03/20/how-to-install-dlib-for-python-3-on-windows/
+
+Requires python 3.6 !!!!

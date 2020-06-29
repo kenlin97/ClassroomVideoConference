@@ -1,0 +1,9 @@
+Using Kinect as a webcam: 
+
+1. Open Kinect for windows development 
+	Choose Kinect Explorer - WPF under C#
+		adjust tilt and full screen
+2. Open OBS, adjust settings to capture screen 
+	Select tools and select virtual cam
+	Press Start 
+3. Open Pycharm and start coding. 
